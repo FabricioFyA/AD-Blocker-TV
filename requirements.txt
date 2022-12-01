@@ -1,0 +1,6 @@
+ndi-python==5.1.1.1
+numpy==1.23.5
+obs-websocket-py==0.5.3
+opencv-python==4.6.0.66
+six==1.16.0
+websocket-client==1.4.2
